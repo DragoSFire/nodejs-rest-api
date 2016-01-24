@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-rest-api",
+  "main": "server.js",
+  "version": "0.0.1",
+  "author": "ajganiev",
+  "dependencies": {
+    "express": "~4.0.0",
+    "body-parser": "~1.0.1"
+  }
+
+}
